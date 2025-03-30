@@ -1,4 +1,4 @@
-REF: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+REF: [github docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # A first-level heading
 ## A second-level heading
@@ -22,3 +22,7 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 
 This is an <ins>underlined</ins> text
+
+- [ ] to do
+- [ ] to don't
+- [x] to did
