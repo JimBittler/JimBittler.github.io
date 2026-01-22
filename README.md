@@ -1,6 +1,6 @@
 <!--  ![Alt text](./TIM_test_env_d20_s00_b64_t480_large.svg) -->
-<img src="./TIM_test_env_d10_s00_b64_t060_large.svg">
-<img src="./DWA_test_env_d10_s00_b64_t060_large.svg">
+<img src="./TIM_test_env_d10_s00_b64_t060.svg">
+<img src="./DWA_test_env_d10_s00_b64_t060.svg">
 <img src="./TIM_test_env_d20_s00_b64_t480_large.svg">
 <img src="./DWA_test_env_d20_s00_b64_t480_large.svg">
 
