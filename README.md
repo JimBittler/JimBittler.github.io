@@ -1,5 +1,5 @@
 ![Alt text](./TIM_test_env_d20_s00_b64_t480_large.svg)
-
+<img src="./TIM_test_env_d20_s00_b64_t480_large.svg">
 
 REF: [github docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
